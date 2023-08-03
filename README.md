@@ -1,3 +1,5 @@
+<a align="center" href="/" target="_blank"><img src="https://github.com/3ill/DRIP/blob/main/assets/Drip.png" width="400"></a>
+
 <h1 align="center">Welcome to Drip's Repo 👋</h1>
 # Welcome to Drip's Repo 👋
 Drip represents a sophisticated faucet contract designed to periodically release 3ill tokens, enabling users to engage in decentralized activities. This repository encompasses the comprehensive procedures and methodologies employed to craft an ERC20 token and an accompanying faucet contract, precisely regulating the controlled flow of the token distribution.
