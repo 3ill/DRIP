@@ -1,4 +1,4 @@
-<a align="center" href="/" target="_blank"><img src="https://github.com/3ill/DRIP/blob/main/assets/Drip.png" width="400"></a>
+<p align="center"><a href="/" target="_blank"><img src="https://github.com/3ill/DRIP/blob/main/assets/Drip.png" width="700"></a></p>
 
 <h1 align="center">Welcome to Drip's Repo 👋</h1>
 # Welcome to Drip's Repo 👋
